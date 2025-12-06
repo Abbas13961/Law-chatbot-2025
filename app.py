@@ -304,10 +304,14 @@ def main():
     """, unsafe_allow_html=True)
     st.markdown("""
     **Disclaimer:**
-    This information is for legal guidance only, it is not legal advice of any kind.
-    Detailed advice should be sought from a licensed lawyer.
+    📌 Disclaimer:
+            Yeh maloomat sirf qanooni raahnumai ke liye hai,
+            yeh kisi qisam ki legal advice nahi hai.
+            Tafseeli mashwara kisi licensed lawyer se lena zaroori hai.
+                            شکریہ! اللہ حافظ۔.
     """)
     st.write("شکریہ! اللہ حافظ۔")
 
 if __name__ == "__main__":
     main()
+
